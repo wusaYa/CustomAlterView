@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CustomAlterView_Example' do
+  pod 'CustomAlterView', :path => '../'
+
+  target 'CustomAlterView_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
