@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'CustomAlterView'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of CustomAlterView.'
+  s.summary          = 'A stext of CustomAlterView.use myself '
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

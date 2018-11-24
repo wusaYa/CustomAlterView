@@ -1,0 +1,6 @@
+framework module CustomAlterView {
+  umbrella header "CustomAlterView-umbrella.h"
+
+  export *
+  module * { export * }
+}

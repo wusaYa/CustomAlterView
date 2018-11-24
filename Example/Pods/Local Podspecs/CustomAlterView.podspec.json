@@ -1,0 +1,22 @@
+{
+  "name": "CustomAlterView",
+  "version": "0.1.0",
+  "summary": "A short description of CustomAlterView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1241545546@qq.com/CustomAlterView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1241545546@qq.com": "wusaYa@outlook"
+  },
+  "source": {
+    "git": "https://github.com/1241545546@qq.com/CustomAlterView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CustomAlterView/Classes/**/*"
+}

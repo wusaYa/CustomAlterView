@@ -1,0 +1,6 @@
+framework module Pods_CustomAlterView_Tests {
+  umbrella header "Pods-CustomAlterView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
